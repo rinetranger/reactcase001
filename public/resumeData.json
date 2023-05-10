@@ -1,26 +1,26 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"TeamRink",
+    "description":"岸商店ホームページへようこそ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"",
+    "contactmessage":"DX、ウェブ制作、その他経営のこと全ておませください。",
+    "email": "rinetranger@gmail.com",
+    "phone": "090-7329-2804",
+    "github":"https://github.com/rinetranger/",
+    "project":"https://github.com/rinetranger/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"323-1",
+      "city":"最上郡金山町大字金山",
+      "state":"山形県",
+      "zip": "999-5402"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.teamrink.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -35,151 +35,116 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/rinetranger",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"HTML,CSS,javascript,PHP,React.js,Laravel,SQL,IIS,git,AWS,GCP,Linux,Bootstrap,",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"早稲田大学",
+        "degree":"政治経済学部経済学科卒",
+        "graduated":"March 2000",
+        "description":"黙々と本を読む日々。ゴルフと麻雀という昭和の商社マンのような趣味に没頭した。"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"G’sAcademy東京",
+        "degree":"LABコース５期",
+        "graduated":"",
+        "description":"Geekになる為に入学したが、ほどほどに飲み歩いた。"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"新日本監査法人",
+        "title":"シニア",
+        "years":" 2001ーSept 2011",
+        "description":"金融部、新規事業支援部に所属。主に大手証券会社、銀行、VC,投信投資顧問、外資系金融機関の監査、コンサルティング業務に従事。"
       },
       {
-        "company":"Super Cool Studio",
+        "company":"参議院議員事務所",
         "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"April 2011 - Oct 2017",
+        "description":"公設第２秘書として勤務。地元企業のニーズに応え補助金、助成金関連業務。その他の業務に従事。"
+      },
+      {
+        "company":"株式会社マリオン",
+        "title":"顧問",
+        "years":"Sept 2017 - Dec 2019",
+        "description":"財務・会計・ITなどのアドバイザリー業務に従事する。"
+      },
+      {
+        "company":"自営業",
+        "title":"代表",
+        "years":"April 2018 - ",
+        "description":"フルスタックエンジニアとして現在プロジェクトに参画中。web制作、Pmo、SNS運用などのプロジェクトの企画、立案、設計、実装、運用も行っている。"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"HTML",
         "level":"90%"
       },
       {
+        "name":"React.Js",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
         "name":"PHP",
-        "level":"80%"
+        "level":"60%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Flutter",
+        "level":"20%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"金山　栄家様ホームページ制作",
+        "category":"飲食店様",
+        "image":"sakaeya.png",
+        "url":"https://www.sakaeyakaneyama.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"斎苑様ホームページ",
+        "category":"葬儀社様ホームページ制作",
+        "image":"ceremony.png",
+        "url":"http://www.ceremonysaien.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"星川建設様ホームページ",
+        "category":"建設会社様ホームページ制作",
+        "image":"hoshikawa.png",
+        "url":"http://www.hoshikawacon.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"S＆1グループ様ホームページ",
+        "category":"税理士法人様ホームページ",
+        "image":"s1.png",
+        "url":"http://s-1group.com/"
       }
+      
     ]
   }
 }
