@@ -14,7 +14,7 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    const resumeDownload = "https://drive.google.com/file/d/1-mkltTYe3uZc22opctRtiEkwWQ0KXbtz/view?usp=sharing"
 
     return (
       <section id="about">
@@ -35,7 +35,7 @@ class About extends Component {
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-                    <span>{name}</span>
+                    <span>岸 倫一郎</span>
                     <br />
                     <span>
                       {street}
