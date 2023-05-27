@@ -2,7 +2,7 @@
   "name": "reactniceresume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "http://./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -44,5 +44,16 @@
   },
   "devDependencies": {
     "chokidar": "^3.5.1"
+  },
+  "description": "### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinetranger/reactcase001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinetranger/reactcase001/issues"
   }
 }
