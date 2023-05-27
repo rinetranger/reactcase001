@@ -20,17 +20,17 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/",
+        "url":"",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/rinetranger",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"",
         "className":"fa fa-linkedin"
       },
       {
@@ -40,7 +40,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/rinetranger",
+        "url":"https://github.com/kishi_rin",
         "className":"fa fa-github"
       }
     ]
